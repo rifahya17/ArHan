@@ -9,7 +9,7 @@ I bridge the gap between data engineering and executive decision-making. I build
 - **Core Capabilities:** Funnel Conversion Audit, Cohort Analysis, Inventory Optimization, ERD Modeling
 
 ### 📌 Featured Project
-#### [E-Commerce Business Performance Analysis 2024](LINK_KE_REPOSITORI_PROYEK_ANDA)
+#### [E-Commerce Business Performance Analysis 2024](https://github.com/rifahya17/ecommerce-performance-analysis-2024)
 An end-to-end data analysis project optimizing a multi-channel e-commerce system. I diagnosed a critical **102.5-day mobile app activation bottleneck** and provided a strategic 12-month roadmap expected to realize revenue 59% faster.
 
 ### 📫 Connect with Me
