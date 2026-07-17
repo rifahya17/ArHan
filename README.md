@@ -13,5 +13,5 @@ I bridge the gap between data engineering and executive decision-making. I build
 An end-to-end data analysis project optimizing a multi-channel e-commerce system. I diagnosed a critical **102.5-day mobile app activation bottleneck** and provided a strategic 12-month roadmap expected to realize revenue 59% faster.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **LinkedIn:** [://linkedin.com](www.linkedin.com/in/arifin-hanafi-freelance-dataanalyst)
 - **Email:** arifin.hanafi090214@gmail.com
