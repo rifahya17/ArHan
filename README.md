@@ -9,7 +9,7 @@ I bridge the gap between data engineering and executive decision-making. I build
 - **Core Capabilities:** Funnel Conversion Audit, Cohort Analysis, Inventory Optimization, ERD Modeling
 
 ### 📌 Featured Project
-### [PeopleU SaaS — Marketing Acquisition Strategy & Growth Strategy](https://github.com/rifahya17/peopleu-saas-marketing-acquisition-strategy)
+### 🚀 [PeopleU SaaS — Marketing Acquisition Strategy & Growth Strategy](https://github.com/rifahya17/peopleu-saas-marketing-acquisition-strategy)
 
 B2B SaaS marketing analytics project focused on identifying high-value lead segments, evaluating channel & intent effectiveness, and translating acquisition data into investment recommendations.
 
