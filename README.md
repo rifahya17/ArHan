@@ -15,13 +15,9 @@ An end-to-end data analysis project optimizing a multi-channel e-commerce system
 #### 🏦 [RevoBank: Sales Performance & Risk Analytics 2025](https://github.com/rifahya17/revobank-performance-risk-analytics)
 An end-to-end banking analytics project combining multi-variable data scrubbing and an **Unsupervised Machine Learning model (K-Means Clustering)**. I designed a risk-aligned growth framework that targets **IDR 102 Billion in idle credit capacity** while maintaining a highly secure 0.22% low fraud rate environment.
 
-## 📌 Featured Projects
-
 ### PeopleU SaaS — Marketing Acquisition Strategy
 
-B2B SaaS marketing analytics project focused on identifying
-qualified lead segments, validating lead intent, measuring
-channel economics, and modeling incremental marketing investment.
+B2B SaaS marketing analytics project focused on identifying qualified lead segments, validating lead intent, measuring channel economics, and modeling incremental marketing investment.
 
 **Key outcomes:**
 - 3,397 leads analyzed
