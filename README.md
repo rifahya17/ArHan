@@ -13,7 +13,7 @@ I bridge the gap between data engineering and executive decision-making. I build
 
 B2B SaaS marketing analytics project focused on identifying high-value lead segments, evaluating channel & intent effectiveness, and translating acquisition data into investment recommendations.
 
-#### [E-Commerce Business Performance Analysis 2024](https://github.com/rifahya17/ecommerce-performance-analysis-2024)
+#### 🛒 [E-Commerce Business Performance Analysis 2024](https://github.com/rifahya17/ecommerce-performance-analysis-2024)
 An end-to-end data analysis project optimizing a multi-channel e-commerce system. I diagnosed a critical **102.5-day mobile app activation bottleneck** and provided a strategic 12-month roadmap expected to realize revenue 59% faster.
 
 #### 🏦 [RevoBank: Sales Performance & Risk Analytics 2025](https://github.com/rifahya17/revobank-performance-risk-analytics)
